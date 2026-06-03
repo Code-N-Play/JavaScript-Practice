@@ -1,0 +1,17 @@
+#label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 250px;
+    margin-left: 80px;
+}
+.btns{
+    align-items: center;
+}
+.btn{
+    height: 30px;
+    width: 100px;
+    font-size: 15px;
+    color: aliceblue;
+    background-color: rgb(123, 198, 255);
+    border-radius: 5px;
+    border-color: rgb(0, 0, 0);
+}
