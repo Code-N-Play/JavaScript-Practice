@@ -1,0 +1,14 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    align-items: center;
+}
+#button{
+    font-size: 50px;
+    color: rgb(240, 247, 250);
+    background-color: rgb(152, 181, 255);
+    border-radius: 5px;
+}
+#lable{
+    font-size: 50px;
+}
