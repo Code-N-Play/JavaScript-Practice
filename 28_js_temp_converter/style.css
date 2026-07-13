@@ -1,0 +1,21 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    align-items: center;
+}
+
+#input{
+    border-radius: 2px;
+    border-color: rgb(255, 142, 127);
+    margin-bottom: 20px;
+}
+
+#subbtn{
+    margin-top: 20px;
+    height: 30px;
+    width: 185px;
+    background-color: rgb(255, 103, 103);
+    color: white;
+    font-size: 18px;
+    border-color: rgb(134, 4, 4);
+}
