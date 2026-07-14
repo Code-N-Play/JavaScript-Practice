@@ -4,10 +4,7 @@ This repository contains my practice code, experiments, and mini-projects while 
 
 ## Mini-Projects
 
-- [07] Counter
-- Random Number Generator
-- Number Guess Game
-- Temperature Converter
+
 
 | Project Name | Location   |
 |---|---|
