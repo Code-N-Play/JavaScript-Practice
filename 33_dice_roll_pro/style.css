@@ -1,0 +1,30 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+    text-align: center;
+}
+#subbtn{
+    font-size: 15px;
+    height: 40px;
+    width: 100px;
+    margin: 5px;
+    border-radius: 12px;
+    background-color: rgb(151, 151, 255);
+    color: white;
+}
+#subbtn:hover{
+    
+    background-color: rgb(127, 127, 252);
+    
+}
+#subbtn:active{
+    
+    background-color: rgb(175, 175, 255);
+    
+}
+#inputbox{
+    height: 30px;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+}
